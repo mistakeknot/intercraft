@@ -1,0 +1,12 @@
+{
+  "name": "intercraft",
+  "version": "0.1.0",
+  "description": "Agent-native architecture patterns — design, review, and audit for agent-first applications.",
+  "author": { "name": "MK", "email": "mistakeknot@vibeguider.org" },
+  "repository": "https://github.com/mistakeknot/intercraft",
+  "license": "MIT",
+  "keywords": ["agent-native", "architecture", "mcp", "design-patterns", "agents"],
+  "skills": ["./skills/agent-native-architecture"],
+  "agents": ["./agents/review/agent-native-reviewer.md"],
+  "commands": ["./commands/agent-native-audit.md"]
+}
