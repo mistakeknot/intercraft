@@ -1,0 +1,15 @@
+{
+  "module_summary": "Intercraft captures architecture guidance and auditable agent-native design patterns for complex agent behavior.",
+  "roadmap": {
+    "now": [
+      {"id": "ICRA-N1", "title": "Stabilize architectural lint checks and make pattern annotations machine-readable.", "priority": "P1"}
+    ],
+    "next": [
+      {"id": "ICRA-N2", "title": "Ship reusable design contracts for Codex/Clavain handoff quality.", "priority": "P2"},
+      {"id": "ICRA-N3", "title": "Publish inter-module architecture decision templates.", "priority": "P2"},
+      {"id": "ICRA-L1", "title": "Add long-horizon architecture risk scoring to each scaffolded pattern.", "priority": "P2"}
+    ],
+    "later": [
+    ]
+  }
+}
