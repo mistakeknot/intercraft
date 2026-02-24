@@ -8,8 +8,5 @@
   "keywords": ["agent-native", "architecture", "mcp", "design-patterns", "agents"],
   "skills": ["./skills/agent-native-architecture"],
   "agents": ["./agents/review/agent-native-reviewer.md"],
-  "agentCapabilities": {
-    "./agents/review/agent-native-reviewer.md": ["review:architecture", "review:agent-native"]
-  },
   "commands": ["./commands/agent-native-audit.md"]
 }
