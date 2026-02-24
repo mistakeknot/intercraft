@@ -2,7 +2,7 @@
 
 Agent-native architecture patterns for Claude Code.
 
-## What This Does
+## What this does
 
 The core question intercraft answers: can an agent do everything a user can do? If your application has a button that creates a project but no API endpoint or tool that does the same thing, you've built a human-only feature. Agents are second-class citizens, and that's a design bug.
 
