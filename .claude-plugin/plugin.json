@@ -1,6 +1,6 @@
 {
   "name": "intercraft",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Agent-native architecture patterns — design, review, and audit for agent-first applications.",
   "author": {
     "name": "MK",
